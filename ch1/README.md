@@ -1,6 +1,6 @@
 # 關於 Rails Outreach Workshop
 
-Rails Outreach Workshop 是由 [@xdite](http://twitter.com/xdite) 與 [@yorkxin](http://twitter.com/chitsaou) 在 2014 年 5 月開始引進的教學活動。
+Rails Outreach Workshop 是由 [@xdite](http://twitter.com/xdite) 與 [@yorkxin](http://twitter.com/yorkxin) 在 2014 年 5 月開始引進的教學活動。
 
 教學藍本使用 [RailsBridge](http://railsbridge.org) 上的官方 Intro to Rails 教材。
 
